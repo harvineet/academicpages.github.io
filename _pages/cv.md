@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Integrated M.Tech. in Mathematics and Computing, Indian Institute of Technology Delhi, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015-ongoing: Member of Technical Staff
+  * Adobe Research
+  * Machine learning for customer behavior modeling
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2014: Research Intern
+  * Adobe Research
+  * Unsubscription prediction in marketing emails
+  * Supervisor: Dr. Moumita Sinha
+
+* Summer 2013: Research Intern
+  * Adobe Research
+  * Assisting social media content creators by suggesting what, when and how to post
+  * Supervisor: Mr. Mohit Garg
+ 
+* Summer 2012: Research Intern
+  * Budapest University of Technology and Economics (BME)
+  * Comparative study of missing data imputation methods and their effects on classification accuracy
+  * Supervisor: Dr. Krisztian Buza
 
 Publications
 ======
@@ -47,13 +45,20 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+<!--   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for UAI 2017, RecSys 2017
+* Mentored 7 interns on 3 research projects
+* Teaching Assistant for the "Intro to Analysis and Differential Eqns" course at Dept. of Mathematics, IIT Delhi
+
+Relevant Coursework
+======
+Machine Learning, Probability and Stochastic Processes, Optimization Methods, Data
+Mining, Statistical Methods and Algorithms, Financial Mathematics, Linear Algebra, Discrete Mathematics
