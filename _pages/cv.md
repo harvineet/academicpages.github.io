@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF](http://harvineet.github.io/files/cv.pdf)
+
 Education
 ======
-* Integrated M.Tech. in Mathematics and Computing, Indian Institute of Technology Delhi, 2015
+* Integrated M.Tech. in Mathematics and Computing, Indian Institute of Technology Delhi, 2015 [Report](http://harvineet.github.io/files/masters_thesis.pdf)
 
 Work experience
 ======
@@ -21,7 +23,7 @@ Work experience
 
 * Summer 2014: Research Intern
   * Adobe Research
-  * Unsubscription prediction in marketing emails
+  * Cart abandonment prediction in online shopping sessions
   * Supervisor: Dr. Moumita Sinha
 
 * Summer 2013: Research Intern
@@ -54,7 +56,7 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer for UAI 2017, RecSys 2017
+* Sub-reviewer for RecSys 2017, UAI 2017
 * Mentored 7 interns on 3 research projects
 * Teaching Assistant for the "Intro to Analysis and Differential Eqns" course at Dept. of Mathematics, IIT Delhi
 
