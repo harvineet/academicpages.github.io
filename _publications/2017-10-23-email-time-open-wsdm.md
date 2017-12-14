@@ -3,8 +3,8 @@ title: "Modeling Time to Open of Emails with a Latent State for User Engagement 
 collection: publications
 permalink: /publication/2017-10-23-email-time-open-wsdm
 excerpt: 'This paper describes application of Survival analysis for modeling time to open of marketing messages.'
-date: 2018-02-06
-venue: 'ACM International Conference on Web Search and Data Mining (WSDM)'
+date: 2017-10-23
+venue: 'ACM International Conference on Web Search and Data Mining (WSDM) Accepted'
 paperurl: 'http://harvineet.github.io/files/paper.pdf'
 citation: 'Moumita Sinha, Vishwa Vinay, and Harvineet Singh. &quot;Modeling Time to Open of Emails with a Latent State for User Engagement Level.&quot; <i>ACM International Conference on Web Search and Data Mining (WSDM)</i>, 2018.'
 ---
