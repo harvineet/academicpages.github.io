@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Member of Technical Staff at [Adobe Research](https://research.adobe.com/) in [BigData Experience Lab](https://research.adobe.com/about-the-labs/bigdata-experience-lab/), India. Prior to this, I completed my Integrated Masters from [Indian Institute of Technology Delhi](http://www.iitd.ac.in/) in Mathematics and Computing (2015). I was fortunate to be mentored by Prof. [Amitabha Bagchi](http://www.cse.iitd.ernet.in/~bagchi/) and Prof. [Parag Singla](http://www.cse.iitd.ac.in/~parags/) for my thesis project. I interned at Adobe Research in the summers of 2013 and 2014. Before that I spent a summer as a visiting researcher at [BME](http://www.bme.hu/?language=en), Hungary.
+I am a Ph.D. student in [Center for Data Science](https://cds.nyu.edu/about/) at New York University. Previously, I was a Research Engineer at [Adobe Research](https://research.adobe.com/) in [BigData Experience Lab](https://research.adobe.com/about-the-labs/bigdata-experience-lab/), India. I completed my Integrated Masters from [Indian Institute of Technology Delhi](http://www.iitd.ac.in/) in Mathematics and Computing (2015). I was fortunate to be mentored by Prof. [Amitabha Bagchi](http://www.cse.iitd.ernet.in/~bagchi/) and Prof. [Parag Singla](http://www.cse.iitd.ac.in/~parags/) for my thesis project. I interned at Adobe Research in the summers of 2013 and 2014. Before that I spent a summer as a visiting researcher at [BME](http://www.bme.hu/?language=en), Hungary.
 
 Research Interests
 ======
