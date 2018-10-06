@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2015-ongoing: Member of Technical Staff
+* Summer 2015-Summer 2018: Member of Technical Staff
   * Adobe Research
   * Machine learning for customer behavior modeling
 

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-10-20-user-rep-arxiv
 excerpt: 'This work proposes a method to learn user embeddings in social networks.'
 date: 2017-10-20
-venue: '(Under Review)'
+venue: '(arXiv)'
 paperurl: 'https://arxiv.org/pdf/1710.07622.pdf'
 citation: 'Singh, Harvineet, Amitabha Bagchi, and Parag Singla. &quot;Learning User Representations in Online Social Networks using Temporal Dynamics of Information Diffusion.&quot; arXiv preprint arXiv:1710.07622 (2017).'
 ---
