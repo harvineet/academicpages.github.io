@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Ph.D. student at [Center for Data Science](https://cds.nyu.edu/about/) at New York University. Previously, I was a Research Engineer at [Adobe Research](https://research.adobe.com/), India working on building predictive models of user behavior on the web and tools for data analysts to ease their workflows. I completed my Integrated Masters from [Indian Institute of Technology Delhi](http://www.iitd.ac.in/) in Mathematics and Computing, where I was fortunate to be mentored by Prof. [Amitabha Bagchi](http://www.cse.iitd.ernet.in/~bagchi/) and Prof. [Parag Singla](http://www.cse.iitd.ac.in/~parags/).
 
+[Link to CV](http://harvineet.github.io/files/cv.pdf)
+
 Research Interests
 ======
 
@@ -20,15 +22,15 @@ Selected Research Projects
 
 Fair Predictors under Distribution Shift
 ------
-The work in fair machine learning adds to a growing set of algorithmic safeguards required for deployment in high societal impact areas. A fundamental concern with model deployment is to guarantee stable performance under changes in data distribution. When transferring a predictor from training data to some test data with known distribution shift, we ask - under what conditions can we guarantee that test predictions satisfy statistical notions of fairness.
+The work in fair machine learning adds to a growing set of algorithmic safeguards required for deployment in high societal impact areas. A fundamental concern with model deployment is to guarantee stable performance under changes in data distribution. When transferring a predictor from training data to some test data with known distribution shift, we ask - under what conditions can we guarantee that test predictions satisfy statistical notions of fairness. [arXiv link](https://arxiv.org/abs/1911.00677)
 
 Online learning to rank
 ------
-Many of the modern web applications present users with a list of items which they can choose from. Examples includes web search results, product recommendations on ecommerce sites, news from friends on social media sites and so on. With more data being collected on users interacting with the list of items, the problem of personalizing these to interests of the users becomes feasible to tackle. We expore the task of interactively learning user interests with an objective of minimizing abandonment of lists i.e. user finding no item of interest.
+Many of the modern web applications present users with a list of items which they can choose from. Examples includes web search results, product recommendations on ecommerce sites, news from friends on social media sites and so on. With more data being collected on users interacting with the list of items, the problem of personalizing these to interests of the users becomes feasible to tackle. We explore the task of interactively learning user interests with an objective of minimizing abandonment of lists i.e. user finding no item of interest. [paper link](http://auai.org/uai2019/proceedings/papers/248.pdf)
 
 Survival analysis for Emails
 ------
-In email marketing, it is typical to observe moderate to very low open rates among customers. In a recent work accepted for publication at WSDM 2018, we consider the problem of predicting whether a customer will open an email and how much time will be taken for opening the email. Survival analysis offers a framework to model time to event data where event in our case corresponds to an email being opened. A mixture model based approach is used that accounts for the low open rate characteristic of email data.
+In email marketing, it is typical to observe moderate to very low open rates among customers. In a recent work accepted for publication at WSDM 2018, we consider the problem of predicting whether a customer will open an email and how much time will be taken for opening the email. Survival analysis offers a framework to model time to event data where event in our case corresponds to an email being opened. A mixture model based approach is used that accounts for the low open rate characteristic of email data. [arXiv link](https://arxiv.org/abs/1908.06512)
 
 Representation learning in graphs
 ------
